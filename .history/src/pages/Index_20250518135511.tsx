@@ -13,7 +13,7 @@ const Index = () => {
     <ThemeProvider>
       <div className="flex min-h-screen flex-col">
         <Navbar />
-        <main className="flex-grow ">
+        <main className="flex-grow">
           <HeroSection />
           <FeatureSection />
           <TestimonialSection />
