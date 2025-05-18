@@ -93,8 +93,6 @@ npm run dev
 yarn dev
 ```
 
-A aplicação estará disponível em `http://localhost:5173`
-
 ## 📱 Responsividade
 
 O projeto foi desenvolvido com uma abordagem mobile-first, garantindo uma experiência excelente em todos os dispositivos:
