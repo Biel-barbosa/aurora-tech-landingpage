@@ -113,4 +113,4 @@ O tema e as cores podem ser facilmente personalizados através do arquivo `tailw
 - **Código Limpo**: Organização modular e padrões consistentes
 - **TypeScript**: Tipagem estrita para prevenção de erros
 
-Link do projeto : 
+Link do projeto : https://aurora-tech-landingpage.vercel.app/
