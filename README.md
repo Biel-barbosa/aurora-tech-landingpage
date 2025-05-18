@@ -93,8 +93,6 @@ npm run dev
 yarn dev
 ```
 
-A aplicação estará disponível em `http://localhost:5173`
-
 ## 📱 Responsividade
 
 O projeto foi desenvolvido com uma abordagem mobile-first, garantindo uma experiência excelente em todos os dispositivos:
@@ -115,14 +113,4 @@ O tema e as cores podem ser facilmente personalizados através do arquivo `tailw
 - **Código Limpo**: Organização modular e padrões consistentes
 - **TypeScript**: Tipagem estrita para prevenção de erros
 
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📬 Contato
-
-Para perguntas ou sugestões, entre em contato pelo email: seu-email@exemplo.com
-
----
-
-Desenvolvido com 💜 | 2025
+Link do projeto : https://aurora-tech-landingpage.vercel.app/
